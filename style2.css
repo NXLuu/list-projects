@@ -1,0 +1,47 @@
+body {
+    background-color: #111111 !important;
+    color: white !important;
+}
+
+.bg-gray {
+    background-color: #222222 !important;
+}
+
+.card {
+    height: 100% !important;
+}
+
+.title {
+    color: #d4ff00;
+    font-family: 'Space Mono', Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+a {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    padding: 7px;
+    color: #d4ff00 !important;
+    border: 2px solid #d4ff00;
+    text-decoration: none !important;
+}
+
+.hover-light {
+    box-shadow: #d4ff00;
+}
+
+.sub-title {
+    color: #d4ff00;
+}
+
+.content-body {
+    margin-top: 20px;
+}
+
+.group-btn-2 {
+    margin-top: 30px;
+    display: block;
+}
+
